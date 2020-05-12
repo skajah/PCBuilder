@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PC Builder</string>
+    <string name="build_tab_text">Build</string>
+    <string name="search_tab_text">Search</string>
+    <string name="create_tab_text">Create</string>
+    <string name="account_tab_text">Account</string>
+    <string name="keyword">Search by name</string>
+
+
+    <string-array name="build_components">
+        <item>Apple CPU</item>
+        <item>Apple GPU</item>
+        <item>Apple RAM</item>
+        <item>Apple Monitor</item>
+
+        <item>ASUS CPU</item>
+        <item>ASUS GPU</item>
+        <item>ASUS RAM</item>
+        <item>ASUS Monitor</item>
+
+        <item>Samsung CPU</item>
+        <item>Samsung GPU</item>
+        <item>Samsung RAM</item>
+        <item>Samsung Monitor</item>
+
+    </string-array>
+</resources>

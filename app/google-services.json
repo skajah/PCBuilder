@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564914436526",
+    "firebase_url": "https://pcbuilder-fdb6e.firebaseio.com",
+    "project_id": "pcbuilder-fdb6e",
+    "storage_bucket": "pcbuilder-fdb6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564914436526:android:32fb16fd925f772373f03f",
+        "android_client_info": {
+          "package_name": "com.company.PCBuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564914436526-obm2f8f3s0br84ncs232p2mi8hikj6c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDcf1Mfhs3Vj60xj7FTsgWBEr8vMwVWWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564914436526-obm2f8f3s0br84ncs232p2mi8hikj6c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
